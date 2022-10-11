@@ -1,2 +1,2 @@
 # Relogio
-Tecnologia:HTML - CSS - JAVASCRIPT
+Tecnologia: HTML - CSS - JAVASCRIPT
